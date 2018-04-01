@@ -1,0 +1,83 @@
+.game {
+	padding-top: 120px; 
+}
+.optspan {
+	color: rgba(82,79,82,1)
+}
+.optp {
+	color: var(--sc);
+	text-transform: capitalize
+}
+.stats-sidebar {
+	padding: 0px 0 10px 0;
+	background: #fff;
+	border: 1px solid #cecece;
+	-webkit-box-shadow: 3px 3px 7px -2px rgba(82,79,82,1);
+	-moz-box-shadow: 3px 3px 7px -2px rgba(82,79,82,1);
+	box-shadow: 3px 3px 7px -2px rgba(82,79,82,1);
+	min-height: 492px;
+}
+
+.sidebar-img {
+	background:#484537;
+	margin: 10px;
+	padding: 5px 10px;
+	border: 2px solid var(--red)
+}
+
+.sidebar-menu {
+	margin-top: 10px;
+}
+
+.menulist{
+	list-style: none;
+	padding: 12px 20px ;
+	cursor: pointer;
+}
+.menulist:hover {
+	background: var(--pc);
+	color: #fff
+}
+.menulist i {
+	padding-right: 10px;
+}
+.active {
+	border-left: 3px solid var(--red);
+	font-weight: bold;
+	color: var(--pc)
+}
+
+
+
+
+
+.tooltip-arrow,
+.tooltip-inner {background-color: #000; color: #fff}
+
+
+
+  .profile-userbuttons {
+	text-align: center;
+	margin-top: 10px;
+  }
+  
+  .profile-userbuttons .btn {
+	text-transform: uppercase;
+	font-size: 11px;
+	font-weight: 600;
+	padding: 6px 15px;
+	margin-right: 5px;
+  }
+  
+	  
+ 
+  .main-content {
+	padding: 20px;
+	background: #fff;
+	min-height: 460px;
+	margin-bottom: 10px;
+	border: 1px solid #cecece;
+	-webkit-box-shadow: 3px 3px 7px -2px rgba(82,79,82,1);
+	-moz-box-shadow: 3px 3px 7px -2px rgba(82,79,82,1);
+	box-shadow: 3px 3px 7px -2px rgba(82,79,82,1);
+  }

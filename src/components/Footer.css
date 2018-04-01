@@ -1,0 +1,9 @@
+.copyri {
+    font-size: 12px;
+    padding: 0px;
+    color: var(--sc);
+    background-color: #2a2f33;
+}
+.footer-nav {
+    background: var(--pc);
+}

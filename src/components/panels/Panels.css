@@ -1,0 +1,163 @@
+.tooltip-arrow,
+.tooltip-inner {background-color: #000; color: #fff}
+
+.panelbase h1 {
+    margin: 0px;
+    padding-top: 10px;
+    color: #fff
+}
+.panelbase h2 { 
+    margin: 0px;
+    padding-bottom: 10px;
+    color: rgb(160, 158, 158);
+    font-size: 15px !important;
+}
+/* Dashboard Panel */
+.dash {
+    background: var(--pc);
+    min-height: 450px;
+}
+.instructions {
+    color: #c8c8c8;
+    padding: 0 40px;
+    
+    text-align: left;
+}
+.instructions h4 {
+    margin-top: -10px;
+    color: rgb(160, 158, 158)
+}
+.instructions hr {
+    width: 30%;
+    border-color: rgb(99, 99, 99);
+    margin: 9px auto;
+}
+.instructions p {
+    font-size: 14px;
+    color: #fff;
+    line-height: 20px
+}
+/* Drill Panel */
+.drill {
+    background: var(--pc);
+    min-height: 450px;
+}
+.drill-btn {
+    margin-top: 40px;
+    margin-right: 50px
+}
+.drill-btn i {
+    display: block;
+    font-size: 30px;
+    padding: 20px 0
+}
+.drill-btn:hover, .drill-btn:focus {
+    border-color: #fff
+}
+.drilldata {
+    margin-left: 50px;
+}
+.drilldata span {
+    color: rgb(160, 158, 158); 
+    font-weight: bold;
+    padding-right: 20px 
+}
+.drilldata p {
+    color: #fff;
+    font-size: 30px
+}
+/* Scrap Panel */
+.scrap {
+    background: var(--pc);
+    min-height: 450px;
+}
+.scrap h4 {
+    color: rgb(160, 158, 158); 
+    margin: 0;
+}
+.scrap p {
+    color: #fff;
+}
+.scrapfound {
+    border: 1px solid rgb(160, 158, 158);
+    margin: 10px 40px 0 40px;
+    padding: 30px;
+}
+/* Inv Panel */
+.inv {
+    background: var(--pc);
+    max-height: 450px;
+    overflow: hidden;
+}
+.invmenu {
+    margin: 2px;
+    margin-bottom: 30px; 
+}
+.tablepanel {
+    margin-bottom: 50px
+}
+.invinfo {
+    margin-bottom: 300px;
+    color: #c8c8c8
+}
+
+/* Build Panel */
+.build {
+    background: var(--pc);
+    min-height: 450px;
+}
+.build h4 {
+    color: #fff;
+    margin: 30px 0 0 0
+}
+.alreadyBuilt{
+    padding-top: 150px
+}
+.build p {
+    color: rgb(160, 158, 158);
+}
+.bmenucon {
+    margin: 50px 0 0 0px;
+    min-height: 300px;
+    padding-left: 30px
+}
+.build li {
+    width:  70%;
+    display: block;
+    margin: 0 auto;
+    background-color: gray;
+    margin-bottom: 3px;
+    color: floralwhite
+}
+.build ul {
+    margin-bottom: 10px
+}
+.badge {
+    padding: 5px 10px !important;
+    border: 1px solid #fff
+
+}
+.bmenu {
+    margin: 20px 0;
+    display: block;
+    width: inherit;
+}
+.check {
+    color: green;
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+/* Assembly Panel */
+.assembly {
+    background: var(--pc);
+    min-height: 450px
+}
+.assembly li {
+    list-style: none;
+    color: #fff;
+}
+.assembly hr {
+    border-color: darkslategray;
+    width: 80%
+}

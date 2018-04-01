@@ -1,0 +1,11 @@
+.modal-header button.close {
+    margin-top: -43px;
+    color: red;
+}
+.modal i {
+    color: var(--sc);
+    padding: 5px
+}
+.ilist {
+    margin: 30px 20px
+}

@@ -1,0 +1,31 @@
+.section-dark {
+    background-image: url(../assets/bg.jpg)
+  }
+  .moving-clouds {
+    background-image: url(https://cdn.rawgit.com/creativetimofficial/paper-kit/bootstrap4-development/assets/img/clouds.png); 
+  }
+  .SocialBar {
+	background-color: #2a2f33;
+	color: #fff;
+	text-align: right;
+}
+.SocialBar ul {
+	margin-bottom: 0;
+	padding: 10px 30px;
+}
+.start {
+    position: absolute;
+    z-index: 100;
+    bottom: 100px;
+  }
+  .title-brand h1 {
+    font-size: 7.9vw;
+  }
+  h2 {
+    font-size: 2.4vw !important;
+  }
+.SocialBar li {
+	list-style: none;
+	display: inline-block;
+	padding: 0 10px;
+}

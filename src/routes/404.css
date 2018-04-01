@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+.a404 {
+    margin: 160px 0 135px 0;
+}
+.a404 h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 160px;
+    text-align: center
+} 
+.a404 p {
+    font-size: 60px;
+    text-align: center
+}
