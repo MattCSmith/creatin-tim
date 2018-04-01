@@ -1,7 +1,7 @@
 {
   "name": "Creatin-Tim",
   "version": "0.1.0",
-  "homepage": "http://mattcsmith.github.io/creatin-tim",
+  "homepage": "http://mattcsmith.github.io/creatin-tim/",
   "private": true,
   "dependencies": {
     "bootstrap-sweetalert": "^1.0.1",
